@@ -46,14 +46,14 @@ Before running the app locally, make sure you have the following installed:
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/your-username/book-discovery-app.git
+   git clone https://github.com/kpndevroot/Booksense.ai.git
 
    ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd book-discovery-app
+cd Booksense.ai.git
 ```
 
 3.Install dependencies: Run the following command to install all required dependencies:
@@ -65,10 +65,10 @@ npm install
 4.Run the app: After the dependencies are installed, you can start the app by running:
 
 ```bash
-npm start
+npm run dev
 ```
 
-This will start a development server, and you can view the app by navigating to http://localhost:3000 in your browser.
+This will start a development server, and you can view the app by navigating to http://localhost:5173 in your browser.
 
 Usage
 Once the app is running, follow these simple steps:
