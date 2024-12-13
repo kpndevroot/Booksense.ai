@@ -1,0 +1,12 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.clip-circle {
+  clip-path: circle(50% at 50% 50%);
+}
+
+.clip-diagonal {
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+}
